@@ -1,0 +1,11 @@
+# ==========================================
+# Dependencies & Import Information
+# ==========================================
+
+# Standard Library Imports (pre-installed with Python, no pip install needed):
+# import json
+# import os
+
+# Note:
+# All modules used in 'LAB SKILLS LAB GITHUB.py' belong to the Python Standard Library.
+# No external third-party packages need to be installed.
