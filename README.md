@@ -1,4 +1,3 @@
-# LIFE-SKILL-LAB
 # Computer Science Lab Assignments
 
 This repository contains my Python programming laboratory experiments.
